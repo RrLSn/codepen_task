@@ -6,15 +6,15 @@ An implementation of CodePen Task with HTML/CSS
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/color_background.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/codepen_task.git
 
 # Tech/framework used
 HTML
 CSS
 
 # Demo
-[preview]()
-![screenshot]()
+[preview](https://mellow-chebakia-dfe11e.netlify.app)
+![screenshot](./media/Screenshot%202022-11-30%20041339.png)
 
 
 # Contact

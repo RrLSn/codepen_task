@@ -24,6 +24,7 @@ ul{
     justify-content: center;
     align-items: center;
     padding: 4rem;
+    position: relative;
 }
 
 li{
@@ -50,7 +51,7 @@ li::before{
     display: flex;
     justify-content: center;
     align-items: center;
-    left: 29rem;
+    left: 2.5rem;
 }
 
 li:first-child::before {
